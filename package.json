@@ -4,6 +4,19 @@
   "description": "A subtle yet compelling vscode theme",
   "version": "0.0.1",
   "publisher": "Aniz",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/4N1Z/malva-by-aniz"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "malva by aniz",
+    "malva",
+    "coding dark theme",
+    "minimal theme",
+    "malva dark"
+  ],
   "engines": {
     "vscode": "^1.84.0"
   },
