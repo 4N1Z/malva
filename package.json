@@ -1,0 +1,22 @@
+{
+  "name": "malva-by-aniz",
+  "displayName": "Malva by Aniz",
+  "description": "A subtle yet compelling vscode theme",
+  "version": "0.0.1",
+  "publisher": "Aniz",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Malva",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Malva-color-theme.json"
+      }
+    ]
+  }
+}
