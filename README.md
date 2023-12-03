@@ -5,6 +5,8 @@
 
 **Malva by Aniz** is a subtle yet compelling Visual Studio Code theme designed to enhance your coding experience. With its minimalistic and dark design, Malva creates a soothing environment that is easy on the eyes during long coding sessions.
 
+[Visual Studio Marketpace](https://marketplace.visualstudio.com/items?itemName=Aniz.malva)
+
 ## Features
 
 - Subtle and minimalistic design
